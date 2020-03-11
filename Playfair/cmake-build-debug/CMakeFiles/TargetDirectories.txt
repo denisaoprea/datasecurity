@@ -1,0 +1,3 @@
+C:/Users/Clara/CLionProjects/PlayfairStancuClara/cmake-build-debug/CMakeFiles/PlayfairStancuClara.dir
+C:/Users/Clara/CLionProjects/PlayfairStancuClara/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Clara/CLionProjects/PlayfairStancuClara/cmake-build-debug/CMakeFiles/rebuild_cache.dir

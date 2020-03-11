@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545567262 source:c:\users\asus\desktop\columnartranspositionalgorithm\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509046729 source:c:\users\pc\desktop\vigenere\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509046729 source:c:\users\pc\desktop\securitatea datelor\vigenere\main.c
+	<stdio.h>
+	<stdlib.h>
+

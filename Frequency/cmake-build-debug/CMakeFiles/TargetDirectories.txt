@@ -1,0 +1,3 @@
+C:/Users/Clara/CLionProjects/FrequencyStacnuClara/cmake-build-debug/CMakeFiles/FrequencyStacnuClara.dir
+C:/Users/Clara/CLionProjects/FrequencyStacnuClara/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Clara/CLionProjects/FrequencyStacnuClara/cmake-build-debug/CMakeFiles/rebuild_cache.dir

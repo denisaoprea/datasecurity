@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547395286 source:c:\users\asus\desktop\trifidcipheralgorithm\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
